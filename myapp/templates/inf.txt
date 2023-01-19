@@ -1,0 +1,1 @@
+contains jinja files out html pages like (home page - departments page - add department page -..)
